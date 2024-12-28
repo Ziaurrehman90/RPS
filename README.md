@@ -1,1 +1,1 @@
-# RPS
+# Rising-Public-School
